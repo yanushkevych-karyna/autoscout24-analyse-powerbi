@@ -10,7 +10,7 @@ Dies ist mein erstes Power-BI-Projekt. Ziel war es, einen vollständigen Analyse
 
 ## Dashboard
 
-
+![All Makes Dashboard](dashboard_images/all_makes_dashboard.png)
 
 ## Datensatz
 

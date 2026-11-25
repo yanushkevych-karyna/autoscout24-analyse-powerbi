@@ -10,7 +10,7 @@ This is my first Power BI project. The goal was to practise a complete analytics
 
 ## Dashboard
 
-
+![All Makes Dashboard](dashboard_images/all_makes_dashboard.png)
 
 ## Dataset
 
